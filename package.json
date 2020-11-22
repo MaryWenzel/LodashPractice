@@ -1,0 +1,22 @@
+{
+  "name": "lodashpractice",
+  "version": "1.0.0",
+  "description": "lodash practice JS211",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaryWenzel/LodashPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaryWenzel/LodashPractice/issues"
+  },
+  "homepage": "https://github.com/MaryWenzel/LodashPractice#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
